@@ -8,3 +8,17 @@
 .header__lang-link:last-child {
   margin-right: 0;
 }
+
+@media screen and (max-width: 1280px) {
+  .header__lang-link {
+    font-weight: normal;
+
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .header__lang-link {
+    font-size: 18px;
+    line-height: 20px;
+  }
+}
