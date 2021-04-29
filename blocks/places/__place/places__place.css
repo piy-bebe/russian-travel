@@ -11,11 +11,13 @@
 @media screen and (max-width: 1024px) {
   .places__place {
     gap: 48px 28px;
+    margin-bottom: 73px;
   }
 }
 
 @media screen and (max-width: 768px) {
   .places__place {
     grid-template-columns: 1fr;
+    margin-bottom: 64px;
   }
 }
