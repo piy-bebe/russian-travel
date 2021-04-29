@@ -15,3 +15,5 @@
 * Responsive
 
 **GitHub Pages**  
+
+[Ссылка на GitHub Pages] https://piy-bebe.github.io/russian-travel/index.html
