@@ -4,6 +4,7 @@
   font-weight: bold;
   margin-right: 17px;
   text-decoration: none;
+  line-height: 28px;
 }
 .header__lang-link:last-child {
   margin-right: 0;
