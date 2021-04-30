@@ -7,19 +7,19 @@
   gap: 16px;
 }
 
-@media screen and (max-width: 1280px) {
+@media screen and (max-width: 1279px) {
   .photo-grid {
     max-width: 928px;
   }
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1023px) {
   .photo-grid {
     max-width: 720px;
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .photo-grid {
     padding: 0 16px;
   }
